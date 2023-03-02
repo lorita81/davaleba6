@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+.conteiner{
+    background-color:#FAFAFA
+    
+    height: 818px;
+width: 562px;
+border: 1px solid #DCDCDC;
+margin-top: 50px;
+
+}
+.foto{
+
+    height: 147px;
+    width: 220px;
+    
+
+}
+.h1{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    
+    
+}
+.p{
+max-width: 408px;
+    font-family: Inter;
+font-size: 19px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+
+
+}
